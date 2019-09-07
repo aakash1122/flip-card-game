@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aakash1122/flip-card-game/static/css/main.38edfba8.chunk.css",
+    "main.js": "/aakash1122/flip-card-game/static/js/main.de281a9f.chunk.js",
+    "main.js.map": "/aakash1122/flip-card-game/static/js/main.de281a9f.chunk.js.map",
+    "runtime~main.js": "/aakash1122/flip-card-game/static/js/runtime~main.6c9ae9e7.js",
+    "runtime~main.js.map": "/aakash1122/flip-card-game/static/js/runtime~main.6c9ae9e7.js.map",
+    "static/js/2.5540edb3.chunk.js": "/aakash1122/flip-card-game/static/js/2.5540edb3.chunk.js",
+    "static/js/2.5540edb3.chunk.js.map": "/aakash1122/flip-card-game/static/js/2.5540edb3.chunk.js.map",
+    "index.html": "/aakash1122/flip-card-game/index.html",
+    "precache-manifest.a75ecd30ceb3aea38140e8e749026149.js": "/aakash1122/flip-card-game/precache-manifest.a75ecd30ceb3aea38140e8e749026149.js",
+    "service-worker.js": "/aakash1122/flip-card-game/service-worker.js",
+    "static/css/main.38edfba8.chunk.css.map": "/aakash1122/flip-card-game/static/css/main.38edfba8.chunk.css.map",
+    "static/media/bomb.png": "/aakash1122/flip-card-game/static/media/bomb.a0eb47bd.png",
+    "static/media/love.png": "/aakash1122/flip-card-game/static/media/love.7bd8f681.png",
+    "static/media/scream.mp3": "/aakash1122/flip-card-game/static/media/scream.91c42e6d.mp3"
+  }
+}
