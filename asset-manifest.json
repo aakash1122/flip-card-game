@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/flip-card-game/static/css/main.38edfba8.chunk.css",
-    "main.js": "/flip-card-game/static/js/main.c7384625.chunk.js",
-    "main.js.map": "/flip-card-game/static/js/main.c7384625.chunk.js.map",
+    "main.css": "/flip-card-game/static/css/main.e27f61fa.chunk.css",
+    "main.js": "/flip-card-game/static/js/main.55b00d6d.chunk.js",
+    "main.js.map": "/flip-card-game/static/js/main.55b00d6d.chunk.js.map",
     "runtime~main.js": "/flip-card-game/static/js/runtime~main.b108565b.js",
     "runtime~main.js.map": "/flip-card-game/static/js/runtime~main.b108565b.js.map",
     "static/js/2.5540edb3.chunk.js": "/flip-card-game/static/js/2.5540edb3.chunk.js",
     "static/js/2.5540edb3.chunk.js.map": "/flip-card-game/static/js/2.5540edb3.chunk.js.map",
     "index.html": "/flip-card-game/index.html",
-    "precache-manifest.4adc25c9cc6463d7c47f7224ca88aa15.js": "/flip-card-game/precache-manifest.4adc25c9cc6463d7c47f7224ca88aa15.js",
+    "precache-manifest.cb2e751979dcf31f59d332b98b887d26.js": "/flip-card-game/precache-manifest.cb2e751979dcf31f59d332b98b887d26.js",
     "service-worker.js": "/flip-card-game/service-worker.js",
-    "static/css/main.38edfba8.chunk.css.map": "/flip-card-game/static/css/main.38edfba8.chunk.css.map",
+    "static/css/main.e27f61fa.chunk.css.map": "/flip-card-game/static/css/main.e27f61fa.chunk.css.map",
     "static/media/bomb.png": "/flip-card-game/static/media/bomb.a0eb47bd.png",
     "static/media/love.png": "/flip-card-game/static/media/love.7bd8f681.png",
     "static/media/scream.mp3": "/flip-card-game/static/media/scream.91c42e6d.mp3"

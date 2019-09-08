@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc67b2181d7ddce2cad43e9c736d0c56",
+    "revision": "6fec1b9eeadb0528785cde3a458e45ae",
     "url": "/flip-card-game/index.html"
   },
   {
-    "revision": "ee275c6519c0a8300cd3",
-    "url": "/flip-card-game/static/css/main.38edfba8.chunk.css"
+    "revision": "3f66db9834f69971c81d",
+    "url": "/flip-card-game/static/css/main.e27f61fa.chunk.css"
   },
   {
     "revision": "b2bb818e1f7cb0d10ba1",
     "url": "/flip-card-game/static/js/2.5540edb3.chunk.js"
   },
   {
-    "revision": "ee275c6519c0a8300cd3",
-    "url": "/flip-card-game/static/js/main.c7384625.chunk.js"
+    "revision": "3f66db9834f69971c81d",
+    "url": "/flip-card-game/static/js/main.55b00d6d.chunk.js"
   },
   {
     "revision": "6707598b8baf8e770f2d",
