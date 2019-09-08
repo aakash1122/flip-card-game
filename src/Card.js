@@ -23,7 +23,11 @@ export default function Card({ item, increaseScore, go }) {
 
   return (
     <div className="card" onClick={handleClick} id={clicked ? "animate" : null}>
-      {clicked ? <img src={item ? love : bomb} /> : <img src={q} />}
+      {clicked ? (
+        <img className="game-image" src={item ? love : bomb} />
+      ) : (
+        <img src={q} />
+      )}
     </div>
   );
 }
